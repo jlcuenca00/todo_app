@@ -1,16 +1,23 @@
-# todo_app
+# guipro-finals
 
-A new Flutter project.
+functioning features:
 
-## Getting Started
+✅ add tasks 
 
-This project is a starting point for a Flutter application.
+✅ edit tasks 
 
-A few resources to get you started if this is your first Flutter project:
+✅ delete tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ mark as completed
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+✅ categorized tasks
+
+❌ search functionality (function is present but ran out of time to implement to the system)
+
+✅ due dates with differenct colors
+
+
+✅ confirmation dialog before deleting task
+
